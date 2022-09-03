@@ -1,2 +1,2 @@
-# Compartilhando Aprendizado dos Desafios do Bootcamp DIO
+# Aprendizado dos Desafios do Bootcamp DIO
 Compartilhando aprendizado.
