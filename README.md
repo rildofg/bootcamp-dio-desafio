@@ -11,6 +11,6 @@ Desenvolvido no Power BI: Análise de Vendas, Ticket Médio, Total de NFe Emitid
 
 [Vendas Varejo](https://app.powerbi.com/view?r=eyJrIjoiYWVkNjYwNDYtMzEzYy00ZGFkLTgxNzYtYWIyODU1NWFiMDgzIiwidCI6IjRmMDg2MTI0LWMyYzktNGU2Zi05Mjk4LTVmMGQ2NTU5NGI4MyJ9&pageName=ReportSectioncf77f7dbc2d80be00708)
 
-###  Controle de condimínio
-O modelo permite  uma analise de quantos condominos vivem  no conjunto além da faixa de idade. Todos os dados são pura ficção:
+###  Controle de condomínio
+O modelo permite uma analise de quantos condôminos vivem no conjunto além da faixa de idade. Todos os dados são pura ficção:
 [Controle de condomin](https://app.powerbi.com/view?r=eyJrIjoiODcxOTlhMGMtZGM5My00MzEwLWJhNzQtM2Y3MzA5NjVhZTdhIiwidCI6IjRmMDg2MTI0LWMyYzktNGU2Zi05Mjk4LTVmMGQ2NTU5NGI4MyJ9&pageName=ReportSection842d88372983069e77d3)
