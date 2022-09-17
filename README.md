@@ -4,7 +4,8 @@ Compartilhando aprendizado.
 ## Linkedin
 [Contato: Rildo Gomes](http://br.linkedin.com/pub/rildo-gomes/42/801/65)
 
-## Painel e Indicadores para Análise de Vendas - Comércio Varejista:
+## Outros Projetos:
+### Painel e Indicadores para Análise de Vendas - Comércio Varejista:
 O modelo permite usabilidade com seleções por filtros e menu.
 Desenvolvido no Power BI: Análise de Vendas, Ticket Médio, Total de NFe Emitidas, Total de Clientes Atendidos, Evolução Ano/Mês, Vendas por Vendedor e Departamentos, Movimentações Financeira e outras:
 
