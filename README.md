@@ -2,7 +2,7 @@
 ## Compartilhando aprendizado.
 
 ### Construindo um Esquema Conceitual para Banco de Dados
-
+[Desafio 02](https://github.com/rildofg/bootcamp-dio-desafio/blob/76d2821e11456bdf2592d209a5a9241aa34097e7/Projeto%20Oficina%20-%20MER.png)
 
 ## Linkedin
 [Contato: Rildo Gomes](http://br.linkedin.com/pub/rildo-gomes/42/801/65)
